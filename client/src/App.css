@@ -1,0 +1,31 @@
+html, 
+body {   
+  height: 100%; 
+} body { 
+  display: flex;   
+  flex-direction: column; 
+}
+.remove-btn {
+  margin-right: 0.5rem;
+}
+
+.fade-enter {
+  opacity: 0.01;
+  transition: opacity 1000ms ease-in;
+
+}
+
+.fade-enter-active {
+  opacity: 1;
+}
+
+.fade-exit {
+  opacity: 0.01;
+  transition: opacity 1000ms ease-in;
+}
+
+.main {
+  margin-top: 20px;
+  align-items: center;
+}
+

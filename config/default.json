@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb://user:user123@127.0.0.1:27017/users",
+    "jwtSecret":"sl_myJwtSecret" 
+}

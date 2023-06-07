@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+}
+
+
+.taskimage {
+    width: 50%;
+    height: 50%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
