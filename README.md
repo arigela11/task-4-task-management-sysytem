@@ -6,3 +6,5 @@ we have 2 sort options: tehy are i)label ii) status
 based on the option it sorted out
 we have also have an option called search .
 we can search tasks
+The users name and their will be stored in mongodb database 
+and tasks also stored in database
